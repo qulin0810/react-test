@@ -2,7 +2,7 @@ import React from 'react';
 import { BrowserRouter, Routes, Route, Link } from 'react-router-dom';
 import Table from './table';
 import About from './about';
-// Home 组件
+// Home 组件//
 // const Home = () => {
 //   const navigate = useNavigate(); // 获取导航函数
 
